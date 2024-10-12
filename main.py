@@ -1,0 +1,5 @@
+print("Aarza kaur")
+print("I am ", 12, "years old" )
+print("I live in Gurgaon, Haryana")
+print("My hobbies are theatre and swimming")
+print("I study in GDGPS school", end = "!")
